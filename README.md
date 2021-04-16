@@ -1,7 +1,7 @@
 ## Jim Whiting - Evolutionary Genomics Researcher
 Hi 👋 , I'm a postdoctoral researcher based in London and working with the University of Calgary researching the evolutionary genomics of convergent evolution in nature. For an overview of my research you can visit my Google Scholar page: https://scholar.google.co.uk/citations?user=kqsAXLYAAAAJ&hl=en
 
-My research focusses on: 🐟 🐠  &  🌲 🌳 
+My research focusses on: 🐟 🐠  and  🌲 🌳 
 
 Here you can find repositories associated with various publications, software I've developed (GenotypePlot), and other general population genetics scripts I've uploaded that people may find useful.
 

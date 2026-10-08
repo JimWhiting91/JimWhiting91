@@ -1,5 +1,5 @@
-## Dr Jim Whiting - Ecoinformatics
-Hi 👋 , I'm an Ecological Data Analyst in the Product team at NatureMetrics. This github profile stores the code and software developed during my academic research career at the Universitys of Nottingham, Exeter and Calgary.
+## Dr Jim Whiting - Ecoinformatics & Data Science
+Hi 👋 , I'm an Quantitative Ecologist in the Product team at NatureMetrics. This github profile stores the code and software developed during my academic research career at the Universities of Nottingham, Exeter and Calgary.
 
 For an overview of my research you can visit my Google Scholar page: https://scholar.google.co.uk/citations?user=kqsAXLYAAAAJ&hl=en
 
